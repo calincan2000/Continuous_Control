@@ -18,7 +18,7 @@ Watch this [YouTube video](https://www.youtube.com/watch?v=ZVIxt2rt1_4) to see h
 
 ## Installation
 
-# Version 1: One (1) Agent
+#### Version 1: One (1) Agent
 * Linux: click [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Linux.zip) </br>
 * Mac OSX: click [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher.app.zip) </br>
 * Windows (32-bit): click [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86.zip) </br>
