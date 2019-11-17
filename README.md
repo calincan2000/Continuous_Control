@@ -6,7 +6,7 @@ For game developers, these trained agents can be used for multiple purposes, inc
 You can read more about ML-Agents by perusing the [GitHub repository](https://github.com/Unity-Technologies/ml-agents).
 
 ### Project Continuous Control
-In this project, I trained a robot agent that reaches a ball using Deep Deterministic Policy Gradient (DDPG) , which work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
+In this project, I trained a robot agent that reaches a ball using Deep Deterministic Policy Gradient (DDPG) , which work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. </br>
 ![Unity ML-Agents Reacher Environment](https://github.com/calincan2000/Continuous_Control/blob/master/reacher.gif)
 
 .
