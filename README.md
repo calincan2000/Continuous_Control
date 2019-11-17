@@ -19,12 +19,14 @@ Watch this [YouTube video](https://www.youtube.com/watch?v=ZVIxt2rt1_4) to see h
 ## Installation
 
 #### Version 1: One (1) Agent
+1. Download the environment from one of the links below. You need only select the environment that matches your operating system:
+
 * Linux: click [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Linux.zip) </br>
 * Mac OSX: click [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher.app.zip) </br>
 * Windows (32-bit): click [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86.zip) </br>
 * Windows (64-bit): click [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86_64.zip) </br>
 
-
+2. Place the file in the directory of GitHub repository files.
 
 
 
