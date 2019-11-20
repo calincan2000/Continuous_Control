@@ -28,7 +28,8 @@ Watch this [YouTube video](https://www.youtube.com/watch?v=ZVIxt2rt1_4) to see h
 
 2. Place the file in the directory of GitHub repository files.
 
-
+### Run the code in the repository 
+To train the agent run all the cells in Report.ipynb notebook. For more information on how to run the environment please read the Dependencies section in this [repo](https://github.com/udacity/deep-reinforcement-learning#dependencies).
 
 .
 
